@@ -92,6 +92,7 @@
 ---
 ### 🏆 Achievements & Certifications
 •Oracle Cloud Infrastructure 2023 Cerified Architech Association.
+
 📄 Certification of ”Published research paper titled ’ClassHotel:Application of Data Analytic Techniques 
 for Online Hotel Recommendation’ at the International Conference on Automation,
 Computing and RenewableSystem(ICACRS-2022).\
