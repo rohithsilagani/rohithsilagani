@@ -59,13 +59,6 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### 🧪 Data Processing / ETL
-<p align="left">
-  <img src="https://img.shields.io/badge/Apache%20Spark-E35A16?style=for-the-badge&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-FFB300?style=for-the-badge&logo=apache-hadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-</p>
 
 ### 🛠️ Tools
 <p align="left">
