@@ -102,23 +102,9 @@ Computing and RenewableSystem(ICACRS-2022).\
 ---
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohithsilagani&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rohithsilagani&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithsilagani&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-[![](https://visitcount.itsvg.in/api?id=rohithsilagani&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
 
-## 🏆 **GitHub Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohithsilagani&theme=onestar"/>
-</p>
-
----
 
 ## 📬 **Connect With Me**
 
